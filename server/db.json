@@ -1,0 +1,8 @@
+{
+	"Songs": [
+		{"id":"1", "title":"Are Are ooo", "artist":"Devi","lyricsId":"1"}
+	],
+	"lyrics": [
+		{"id":"1", "songLirics":"Are Are ooo"}
+	]
+}
